@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Afshin</h1>
 <h3 align="center">A passionate frontend developer from Iran</h3>
-(img align="right" alt="Coding" width="400" src="https://irfantariq.com/images/banner.gif")
+<img align="right" alt="Coding" width="400" src="https://irfantariq.com/images/banner.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afshin-shoja&label=Profile%20views&color=0e75b6&style=flat" alt="afshin-shoja" /> </p>
 
